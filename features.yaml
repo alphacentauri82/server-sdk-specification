@@ -1,0 +1,59 @@
+- Account
+    Get Balance: False
+    Get SMS Pricing: False
+    Update Settings: False
+    Top Up: False
+
+- Numbers
+    List all my Numbers: False
+    Search for a new Number: False
+    Buy anew Number: False
+    Cancel a Number: False
+    Update a numbers settings: False
+
+- Number Insight
+    Basic Lookup: False
+    Standard Lookup: False
+    Advanced Lookup : False
+    Advanced Async Lookup: False
+
+- Verify
+    Request a new verification: False
+    Check a response: False
+    Search for a verification: False
+    Control a verification: False
+
+- Messaging 
+    Send: False
+    #need to add all the options for SMS sending in here!
+    Delivery Receipt: False
+    Inbound Messages : False
+    -Search
+       Message: Flase
+       Messages: False
+       Rejections: False
+    - US Short Codes
+        Send 2FA Message
+        -Event Based Alerts
+            Sending Alerts : False
+            Campaign Subscription Management : False
+
+
+-Voice
+  Create call: False
+  List calls: False
+  Get call info: False
+  Modify existing call: False
+  Stream audio to an existing call: False
+  Stop streaming audio to an existing call: False
+  Send speech to an existing call: False
+  Stop speech in an existing call: False
+  Send DTMF to an existing call: False
+  eventUrl webhook support: False
+  answerUrl webhook support: False
+
+-Voice (Deprecated API)
+  Outbound Calls: False
+  Inbound Call: False
+  Text-To-Speech Call: False
+  Text-To-Speech Prompt: False
